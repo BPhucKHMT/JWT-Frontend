@@ -14,3 +14,9 @@ npm install --save-exact bootstrap@5.1.3
 - 500 <x < 768 || col-sm-7 =>576 < x <768
 - < 500
 chỉ dùng col-sm-7 thì tự hiểu >576 là ăn theo
+
++Call api: axios
+npm install --save-exact axios@0.25.0
+
++Thông báo lỗi:
+npm install --save-exact react-toastify@8.1.0
